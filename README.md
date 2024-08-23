@@ -5,7 +5,7 @@ This README would normally document whatever steps are necessary to get the
 application up and running.
 
 Things you may want to cover:
-clone repository: git clone 
+clone repository: git clone https://github.com/shimroz1992/Full-stack-application.git
 cd project_listing
 
 * Ruby version 3.1.2
@@ -45,5 +45,5 @@ This is a Next.js application built with TypeScript that connects to a Ruby on R
 1. Clone the repository and navigate to the project directory:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/shimroz1992/Full-stack-application.git
    cd my-project
