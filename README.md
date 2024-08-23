@@ -6,6 +6,9 @@ application up and running.
 
 Things you may want to cover:
 clone repository: git clone https://github.com/shimroz1992/Full-stack-application.git
+
+cd Full-stack-application
+
 cd project_listing
 
 * Ruby version 3.1.2
@@ -46,4 +49,6 @@ This is a Next.js application built with TypeScript that connects to a Ruby on R
 
    ```bash
    git clone https://github.com/shimroz1992/Full-stack-application.git
-   cd my-project
+   cd Full-stack-application
+   cd Frontend
+start server :npm run dev
